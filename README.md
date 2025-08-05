@@ -2,7 +2,7 @@
 
  non-technical presentation [here is the link](https://1drv.ms/p/c/bf9d5c07889483f9/EYJBzg1u3lNMunigLhi8UVEB8cp9-lgCsHXhsjpebkCK-Q)
 
- tableau dashboad 
+ tableau dashboad [click here](https://public.tableau.com/app/profile/lawrence.kamerino/viz/Book1_17543864950070/Dashboard1?publish=yes)
 
 ## USING DATA TO GUIDE MOVIE PRODUCTION STRATEGY
 
@@ -108,6 +108,7 @@ Consider patnering with consistent studios such BV
 Adopt Hybrid Release Models
 
 For genres hugely impacted by COVID 19 , consider simultenous streaming and theatrical releases to mitigate risks
+
 
 
 
